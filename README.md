@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxuN3hwcW1mdTZmYTRyeXpjMTV5bXJmNTdhcDFvdW03d3Jxazg5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif"  />
 </div>
 
@@ -13,15 +13,15 @@
   </a>
 </div>
 
-###
+<h1 align="center">
+  <p>Frontend Engineer</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pwndex.pwndex&left_color=black&right_color=black"  />
-</div>
-
-###
-
-<h1 align="center">Frontend Engineer</h1>
+   <p align="center">
+    <a href="https://www.codewars.com/users/pwndex">
+      <img src="https://www.codewars.com/users/pwndex/badges/small" alt="Codewars">
+    </a>
+  </p>
+</h1>
 
 ###
 
@@ -46,3 +46,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pwndex.pwndex&left_color=black&right_color=black"  />
+</div>
