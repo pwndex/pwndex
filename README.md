@@ -2,8 +2,6 @@
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxuN3hwcW1mdTZmYTRyeXpjMTV5bXJmNTdhcDFvdW03d3Jxazg5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif"  />
 </div>
 
-###
-
 <!-- <div align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -16,11 +14,11 @@
 <h1 align="center">
   <p>Frontend Engineer</p>
 
-   <p align="center">
-    <a href="https://www.codewars.com/users/pwndex">
+   <!-- <p align="center">
+    <a href="">
       <img src="https://www.codewars.com/users/pwndex/badges/small" alt="Codewars">
     </a>
-  </p>
+  </p> -->
 </h1>
 
 ###
